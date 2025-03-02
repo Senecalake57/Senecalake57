@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Senecalake57
-- 👀 I’m interested in software related to IBM mainframe computers and IBM i systems, as well as Raspberry Pi projects.
+- 👀 I’m interested in software related to IBM mainframe computers and IBM i systems, as well as Raspberry Pi and ESP8266 projects.
 - 📫 How to reach me: drop me an email at rhartmannh@gmx.net.
 
 <!---
